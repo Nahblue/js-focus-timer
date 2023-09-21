@@ -1,7 +1,7 @@
 <h1 align="center">FocusTimer</h1>
 
 <p align="center">
-Projeto de SPA de um temporizador no estilo pomodoro, onde o usuário escolhe quantos minutos serão marcados, pode escolher também entre um tema claro ou escuro, e também se quer ouvir uma música ou não<br/>
+Projeto de um temporizador no estilo pomodoro, onde o usuário escolhe quantos minutos serão marcados, pode escolher também entre um tema claro ou escuro, e também se quer ouvir uma música ou não<br/>
 </p>
 
 <p align="center">
